@@ -16,7 +16,7 @@
         </div>
         <form action="pt_petugas.php" method="post" id="contactForm">
           <div class="row align-items-stretch mb-5">
-            <div class="col-md-6">
+            <div class="col mb-md-0">
               <div class="form-group">
                 <h6 class="section-heading text-uppercase">Name</h6>
                 <input class="form-control" type="text" name="nama_petugas" />
@@ -31,7 +31,7 @@
                 </select>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col mb-md-0">
                 <div class="form-group">
                   <h6 class="section-heading text-uppercase">Username</h6>
                   <input class="form-control" type="text" name="username" />

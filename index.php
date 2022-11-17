@@ -22,12 +22,12 @@
         </div>
         <form action="proses_login.php" method="post" id="contactForm">
           <div class="row align-items-stretch mb-5">
-            <div class="col-md-6">
+            <div class="col mb-md-0">
               <div class="form-group">
                 <input class="form-control" type="text" name="username" placeholder="Username" />
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col mb-md-0">
               <div class="form-group">
                 <input class="form-control" type="password" name="password" placeholder="Password" />
               </div>
